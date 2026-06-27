@@ -1,0 +1,10 @@
+
+## Quick Start
+1. Clone this repository
+2. Download datasets and update paths in `config.m`
+3. Run `main_pipeline.m` to reproduce all results
+
+```matlab
+% Step 1: Edit config.m to set your dataset paths
+% Step 2: Run the main pipeline
+main_pipeline
